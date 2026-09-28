@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "testing-python-unittest",
+      "title": "Testing Python Programs with unittest",
+      "description": "Learn to verify Python programs with unittest by writing assertions, covering edge cases, and using failing tests to find and fix defects.",
+      "path": "assignments/testing-python-unittest",
+      "dueDate": "2026-10-05",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
